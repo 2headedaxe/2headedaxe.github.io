@@ -1,0 +1,12 @@
+[id="R1726258846"] .page-layout {
+	max-width: 44%;
+}
+
+[id="R1726258846"].page {
+	justify-content: flex-start;
+	min-height: var(--viewport-height);
+}
+
+[id="R1726258846"] .page-content {
+	align-items: flex-start;
+}
